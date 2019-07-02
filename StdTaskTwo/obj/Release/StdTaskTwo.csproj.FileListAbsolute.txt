@@ -1,0 +1,9 @@
+C:\Users\AZuev\Desktop\StdTaskTwo\StdTaskTwo\bin\Release\StdTaskTwo.exe
+C:\Users\AZuev\Desktop\StdTaskTwo\StdTaskTwo\bin\Release\StdTaskTwo.pdb
+C:\Users\AZuev\Desktop\StdTaskTwo\StdTaskTwo\obj\Release\StdTaskTwo.csprojAssemblyReference.cache
+C:\Users\AZuev\Desktop\StdTaskTwo\StdTaskTwo\obj\Release\StdTaskTwo.MainForm.resources
+C:\Users\AZuev\Desktop\StdTaskTwo\StdTaskTwo\obj\Release\StdTaskTwo.Properties.Resources.resources
+C:\Users\AZuev\Desktop\StdTaskTwo\StdTaskTwo\obj\Release\StdTaskTwo.csproj.GenerateResource.cache
+C:\Users\AZuev\Desktop\StdTaskTwo\StdTaskTwo\obj\Release\StdTaskTwo.csproj.CoreCompileInputs.cache
+C:\Users\AZuev\Desktop\StdTaskTwo\StdTaskTwo\obj\Release\StdTaskTwo.exe
+C:\Users\AZuev\Desktop\StdTaskTwo\StdTaskTwo\obj\Release\StdTaskTwo.pdb
